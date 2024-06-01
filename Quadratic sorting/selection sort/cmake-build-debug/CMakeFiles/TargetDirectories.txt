@@ -1,0 +1,3 @@
+C:/data structure/selection sort/cmake-build-debug/CMakeFiles/selection_sort.dir
+C:/data structure/selection sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/data structure/selection sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

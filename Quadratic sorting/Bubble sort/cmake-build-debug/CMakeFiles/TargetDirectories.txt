@@ -1,0 +1,3 @@
+C:/data structure/Bubble sort/cmake-build-debug/CMakeFiles/Bubble_sort.dir
+C:/data structure/Bubble sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/data structure/Bubble sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

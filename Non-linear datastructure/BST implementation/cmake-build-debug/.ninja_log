@@ -1,0 +1,11 @@
+# ninja log v5
+0	841	7388438252344775	CMakeFiles/BST_implementation.dir/BST.cpp.obj	197379d774997ce6
+844	952	7388438253411330	BST_implementation.exe	df66b320c9e9245e
+3	1050	7388484275927087	CMakeFiles/BST_implementation.dir/BST.cpp.obj	197379d774997ce6
+1050	1135	7388484276751265	BST_implementation.exe	df66b320c9e9245e
+2	958	7388484879605380	CMakeFiles/BST_implementation.dir/BST.cpp.obj	197379d774997ce6
+959	1033	7388484880325462	BST_implementation.exe	df66b320c9e9245e
+2	1125	7388506012099211	CMakeFiles/BST_implementation.dir/BST.cpp.obj	197379d774997ce6
+1125	1218	7388506012989195	BST_implementation.exe	df66b320c9e9245e
+2	884	7388506350051645	CMakeFiles/BST_implementation.dir/BST.cpp.obj	197379d774997ce6
+885	957	7388506350751649	BST_implementation.exe	df66b320c9e9245e
